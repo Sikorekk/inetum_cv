@@ -1,0 +1,7 @@
+C:\Users\jakub\OneDrive\Pulpit\2SEMESTR2KLASA\Programowanie Obiektowe\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\jakub\OneDrive\Pulpit\2SEMESTR2KLASA\Programowanie Obiektowe\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\jakub\OneDrive\Pulpit\2SEMESTR2KLASA\Programowanie Obiektowe\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\jakub\OneDrive\Pulpit\2SEMESTR2KLASA\Programowanie Obiektowe\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive\Pulpit\2SEMESTR2KLASA\Programowanie Obiektowe\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\jakub\OneDrive\Pulpit\2SEMESTR2KLASA\Programowanie Obiektowe\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\jakub\OneDrive\Pulpit\2SEMESTR2KLASA\Programowanie Obiektowe\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
