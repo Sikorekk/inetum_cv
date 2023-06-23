@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cities>
+  <city>
+    <name>Zgierz</name>
+    <x>10</x>
+    <y>3</y>
+  </city>
+  <city>
+    <name>Warszawa</name>
+    <x>1</x>
+    <y>12</y>
+  </city>
+  <city>
+    <name>Kraków</name>
+    <x>7</x>
+    <y>7</y>
+  </city>
+  <city>
+    <name>Katowice</name>
+    <x>7</x>
+    <y>8</y>
+  </city>
+  <city>
+    <name>Pabianice</name>
+    <x>10</x>
+    <y>4</y>
+  </city>
+  <city>
+    <name>Scigal</name>
+    <x>10</x>
+    <y>9</y>
+  </city>
+</cities>
